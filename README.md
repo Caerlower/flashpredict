@@ -1,5 +1,7 @@
 # FlashPredict – AI-Curated Micro-Prediction Markets
 
+LIVE LINK: https://flashpredict.vercel.app/
+
 **FlashPredict** is a real-time, AI-powered prediction market built on **Linera** — the first real-time Layer-1 blockchain.
 It enables users to create, trade, and resolve micro-markets around live events (e.g. “Will the next football goal happen in 3 minutes?”) with instant settlement and no congestion.
 
